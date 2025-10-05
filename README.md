@@ -7,10 +7,12 @@ This Repository is inspired by the Research Paper titled
 I aim to implement the following Concepts from the paper which will help deepen understanding the internals of LLM aswell as Provide the community with the end-to-end working pipeline for the same. 
 
 1. Automated Pipeline for Persona Vector Extraction :  Extract Persona Vectors from LLM (In here I  will be using SLM's around 1b-3b Parameter models for demonstration purposes with limited GPU resources) for the following traits
-          - Evil (malicious behavior), Sychophancy(Excessive Aggreableness) and Hallucination (fabricate information) which were found to be elicited by Large Language Models in concerning real-world incidents.
-        for prompt induced behavioral shifts.
-2. Inference time Steering of model's activations in the direction of non eliciting trait persona
-3. Preventative Steering of towards persona vectors during finetuning.
+
+   - Evil (malicious behavior), Sychophancy(Excessive Aggreableness) and Hallucination (fabricate information) which were found to be elicited by Large Language Models in concerning real-world incidents.
+
+   for prompt induced behavioral shifts.
+3. Inference time Steering of model's activations in the direction of non eliciting trait persona
+4. Preventative Steering of towards persona vectors during finetuning.
 
 To View notebook (if not rendering here on Git) : https://app.reviewnb.com/KhalandarMokula/PersonaVectors-LLMSteering/blob/main/Steering_Model_Persoana_with_PersonaVectors.ipynb/file
 
@@ -125,5 +127,6 @@ Note : The responses are not the same on different iterations due to :
 
 
 Note : this project is in the development phase, if you find any issues/errors in the approach or code , please do raise an issue.
+
 
 

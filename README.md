@@ -1,6 +1,8 @@
 ﻿# PersonaVectors-LLMPersonaSteering
 
-This Repository is inspired by the Research Paper titled "Persona vectors: Monitoring and controlling character traits in language models" released by Anthorpic -  https://www.anthropic.com/research/persona-vectors
+This Repository is inspired by the Research Paper titled 
+
+"Persona vectors: Monitoring and controlling character traits in language models" released by Anthorpic -  https://www.anthropic.com/research/persona-vectors
 
 I aim to implement the following Concepts from the paper which will help deepen understanding the internals of LLM aswell as Provide the community with the end-to-end working pipeline for the same. 
 
@@ -123,4 +125,5 @@ Note : The responses are not the same on different iterations due to :
 
 
 Note : this project is in the development phase, if you find any issues/errors in the approach or code , please do raise an issue.
+
 

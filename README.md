@@ -30,7 +30,7 @@ Project Tracker:
 	
 	- [ ] Concrete Generalized implementation that automatically detects the best layers to steer and works across all the 3 traits
 
-- [ ] 3. Preventative Steering
+- [ ] 3. Preventative Steering during finetuning.
 
 # Implementation Details : 
 
@@ -126,7 +126,8 @@ Note : The responses are not the same on different iterations due to :
 
 
 
-Note : this project is in the development phase, if you find any issues/errors in the approach or code , please do raise an issue.
+Note : This project is still in development; if you notice any bugs or errors in the methodology or code, please report them by raising an issue.
+
 
 
 

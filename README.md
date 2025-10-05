@@ -12,7 +12,7 @@ I aim to implement the following Concepts from the paper which will help deepen 
 
    for prompt induced behavioral shifts.
 3. Inference time Steering of model's activations in the direction of non eliciting trait persona
-4. Preventative Steering of towards persona vectors during finetuning.
+4. Preventative Steering of models hidden state pv's during finetuning.
 
 To View notebook (if not rendering here on Git) : https://app.reviewnb.com/KhalandarMokula/PersonaVectors-LLMSteering/blob/main/Steering_Model_Persoana_with_PersonaVectors.ipynb/file
 
@@ -127,6 +127,7 @@ Note : The responses are not the same on different iterations due to :
 
 
 Note : This project is still in development; if you notice any bugs or errors in the methodology or code, please report them by raising an issue.
+
 
 
 

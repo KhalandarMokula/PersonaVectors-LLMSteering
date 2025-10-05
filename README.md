@@ -20,13 +20,13 @@ Project Tracker:
 
 - [ ] 1. Automated Pipeline for Persona Vector Extraction
 
-	- [ ] Proof of Concept code for Persona Vector(PV) Extraction
+	- [X] Proof of Concept code for Persona Vector(PV) Extraction
 
 	- [ ] Concrete Implementation Module for PV Extraction
         
 - [ ] 2. Inference time Steering of model's activations in the direction of non eliciting trait persona
 
-	- [ ] Proof of Concept for Inference Time Steering (done for trait : evil)
+	- [X] Proof of Concept for Inference Time Steering (done for trait : evil)
 	
 	- [ ] Concrete Generalized implementation that automatically detects the best layers to steer and works across all the 3 traits
 
@@ -127,6 +127,7 @@ Note : The responses are not the same on different iterations due to :
 
 
 Note : this project is in the development phase, if you find any issues/errors in the approach or code , please do raise an issue.
+
 
 
 
